@@ -221,6 +221,6 @@ fun_fact: I automate everything I possibly can ⚡
 
 **⭐️ Star my repos if you find them useful!**
 
-*Built with ❤️ from Accra, Ghana 🇬🇭 · ALX Alumni 🎓 · © 2025 Foster Setor*
+*Built with ❤️ from Accra, Ghana 🇬🇭 · ALX Alumni 🎓 · © 2026 Foster Setor*
 
 </div>
